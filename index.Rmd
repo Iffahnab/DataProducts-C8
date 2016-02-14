@@ -12,15 +12,11 @@ Reactive programming is a coding style that starts with reactive values-values t
 --- 
 
 ## Implementing Reactivity
-Implement reactive impression and run the reactive values into outputs that can be view on webpage. 
+The objective is to implement reactive impression and run the reactive values into outputs that can be view on webpage.
 
 ---
 
 ## Data Set 
 The data that was used is from the the default dataset that was in shiny application.
 
----
-
-## Thank You
-
----
+Thank You
