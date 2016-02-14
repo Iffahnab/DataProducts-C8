@@ -1,0 +1,26 @@
+---
+title: "Reactive Programming "
+author: "Iffah Nabilah"
+date: "February 13, 2016"
+output: ioslides_presentation
+runtime: shiny
+---
+
+## What is Reactivity?
+Reactive programming is a coding style that starts with reactive values-values that change over time, or in response to the user-and builds on top of them with reactive expressions-expressions that access reactive values and execute other reactive expressions.
+
+--- 
+
+## Implementing Reactivity
+Implement reactive impression and run the reactive values into outputs that can be view on webpage. 
+
+---
+
+## Data Set 
+The data that was used is from the the default dataset that was in shiny application.
+
+---
+
+## Thank You
+
+---
